@@ -18,7 +18,7 @@ title: Bill Bao # the main title
 
 tagline: Bill's Awesome Site | A blog dedicated to reviewing nothing. # it will display as the sub-title
 
-description: I am a software developer with expertise in web full-stack development, AI techniques, parallel computing, and mobile.  My favorite languages are Python, Java, and JavaScript, and I'm interested in improving my skills in C. I have a dual bachelor's degree from Beijing University of Technology and University College Dublin and I'm currently pursuing a Master's degree in Computer Science at the University of Hong Kong.  I have contributed to research projects in machine learning and have multiple publications and patents.  I also work as a teaching assistant at UCD. # used by seo meta and the atom feed
+description: -< # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
 # Fill in the protocol & hostname for your site.
