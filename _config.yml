@@ -9,16 +9,16 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+timezone: Asia/Hong_Kong
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Bill Bao # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: Bill's Awesome Site | A blog dedicated to reviewing nothing. # it will display as the sub-title
 
-description: >- # used by seo meta and the atom feed
+description: I am a software developer with expertise in web full-stack development, AI techniques, parallel computing, and mobile.  My favorite languages are Python, Java, and JavaScript, and I'm interested in improving my skills in C. I have a dual bachelor's degree from Beijing University of Technology and University College Dublin and I'm currently pursuing a Master's degree in Computer Science at the University of Hong Kong.  I have contributed to research projects in machine learning and have multiple publications and patents.  I also work as a teaching assistant at UCD. # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
 # Fill in the protocol & hostname for your site.
@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
 url: "https://bill-flash.github.io/about"
 
 github:
-  username: twitter_username # change to your github username
+  username: Bill-Flash # change to your github username
 
 twitter:
   username: twitter_username # change to your twitter username
@@ -38,11 +38,11 @@ social:
   email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
+    # - https://twitter.com/username # change to your twitter homepage
+    - https://github.com/Bill-Flash # change to your github homepage
+    - https://www.linkedin.com/in/bill-bao
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
 
 # Site Verification Settings
 webmaster_verifications:
