@@ -16,7 +16,7 @@ timezone: Asia/Hong_Kong
 
 title: Bill Bao # the main title
 
-tagline: Bill's Awesome Site | A blog dedicated to reviewing nothing. # it will display as the sub-title
+tagline: Bill's Awesome Site # it will display as the sub-title
 
 description: -< # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
