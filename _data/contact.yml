@@ -13,6 +13,10 @@
 - type: linkedin
   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
   url:  'https://www.linkedin.com/in/bill-bao/'                  # Fill with your Linkedin homepage
+
+- type: GoogleScholar
+  icon: 'fab fa-google'
+  url:  'https://scholar.google.com/citations?hl=en&user=xFt3AJEAAAAJ'
   
 # - type: rss
 #   icon: "fas fa-rss"
