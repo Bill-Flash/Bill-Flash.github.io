@@ -15,7 +15,7 @@
   url:  'https://www.linkedin.com/in/bill-bao/'                  # Fill with your Linkedin homepage
 
 - type: GoogleScholar
-  icon: 'fab fa-google'
+  icon: 'fab fa-google-scholar'
   url:  'https://scholar.google.com/citations?hl=en&user=xFt3AJEAAAAJ'
   
 # - type: rss
